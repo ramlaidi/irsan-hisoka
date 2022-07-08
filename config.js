@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281329869802','6281329869802','6281329869802','6281329869802']
-global.premium = ['6281329869802']
+global.owner = ['+27 69 257 4469','+27 69 257 4469','+27 69 257 4469','+27 69 257 4469']
+global.premium = ['+27 69 257 4469']
 global.packname = 'San-Bot'
 global.author = 'Kamu Jelek'
 global.sessionName = 'hisoka'
